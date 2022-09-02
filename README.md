@@ -1,4 +1,5 @@
 ### Hi there 👋
+<img src="player2wins.gif" width="1250" height="750"/>
 
 <!--
 **ArsonXYZ/ArsonXYZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
